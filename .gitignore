@@ -1,0 +1,12 @@
+
+// Arquivos de compilacao do Quartus
+*/db
+*/incremental_db
+*/output_files
+*/simulation
+*root_partition*
+
+*.db_info
+*.qpf
+*.qsf
+*.rpt
